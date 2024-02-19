@@ -1,0 +1,27 @@
+Visualiza el video “Por qué uso LINUX para programar y desarrollar aplicaciones” 
+
+https://www.youtube.com/watch?v=ZPpo-uViT_o&list=PLnm0lK1Ub7VVIoHpD_yQeSGjTeI0Oq9n5&index=10 
+
+Posteriormente Instalar Linux junto con Windows o usar el sistema WSL de Windows, para lo cual debes ver el video apropiado de acuerdo con tu decisión. 
+
+Linux & Windows, Instalación Dual Boot 
+
+https://www.youtube.com/watch?v=yMgzz1fvVCc 
+
+Linux & Windows en un mismo Sistema, Windows Subsystem for Linux (WSL), Ubuntu & bash 
+
+https://www.youtube.com/watch?v=gm-Kym2iqss 
+
+No hacer ninguna instalación en el caso de utilizar Mac OS. 
+
+Ya instalado el subsistema UNIX, visualiza el video:  
+
+MAS DE 30 COMANDOS en LINUX para manejar tu SERVER 
+
+https://www.youtube.com/watch?v=0BA4k3jweaE 
+
+Practica todos los comandos en tu consola LINUX y envía las capturas de pantalla de tu consola UNIX donde se observen la salida del comando history que demuestre que has ejecutado todos los comandos del video. 
+
+Elabora un documento en Word que contenga un breve resumen de todos los comandos para ser usado como material de consulta rápida durante el curso. Subir el documento terminado a teams en formato pdf para acreditar junto con las capturas de pantalla la presente tarea. 
+
+Importante: Durante el curso sólo utilizaremos la interfaz UNIX por lo que para cualquier actividad tarea o proyecto será necesario usarla, de lo contrario no será aceptada. 
