@@ -76,7 +76,7 @@ Existen los tipos referenciados, que recordando tienen clases, arrglos y interfa
 
 **Se guarda con .java**
 
-~~~java
+```java
 class NombreDeLaClase{
 
     tipoDato variable1;

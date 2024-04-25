@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ejer14 {
+public class ejer15 {
 
     public static void main(String[] args) {
 
